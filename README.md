@@ -10,7 +10,7 @@
 
 ## About Me
 
-### 자바와 스프링부트를 좋아합니다. 현재 구직 중입니다. 
+### 자바와 스프링부트로 개발 중이고, 현재 구직 중입니다. 
 
 - 아이디어를 상품으로 만들고 싶어서, 직장생활 중 만난 개발자들이 너무 멋있어 보여서 개발 입문.
 - 2021년 퇴사 후 <a href="https://newtradecampus.kita.net/page/user_job_globaldigital_courseguide_outline">디지털 인재 양성 1기</a>라는 프로그램으로 개발에 입문 했으나 처참한 실패.
@@ -109,4 +109,4 @@
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
+⭐️ 참고한 템플릿 출처 : From [Parth Patel](https://github.com/parth-27) 
