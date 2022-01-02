@@ -42,9 +42,9 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
+        <span><strong>Spring Boot</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -91,7 +91,7 @@
 
   <br/>
  
-  <a href="https://www.instagram.com/sendkite">
+  <a href="https://www.instagram.com/sendkite1">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
