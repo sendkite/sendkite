@@ -88,6 +88,12 @@
   <a href="https://github.com/sendkite">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
+  
+  <br/>
+ 
+  <a href="https://yeoon.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-color">
+  </a>
 
   <br/>
  
