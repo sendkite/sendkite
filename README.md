@@ -1,4 +1,5 @@
-## <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">안녕하세요, 개발자 전송연 입니다.
+## 안녕하세요. 서버 개발자 전송연 입니다.
+
 
 <h5>
 
@@ -13,13 +14,12 @@
 ### 자바와 스프링부트로 개발 중입니다. 
 
 - 아이디어를 상품으로 만들고 싶어서, 직장생활 중 만난 개발자들이 너무 멋있어 보여서 개발 입문.
-- 2021년 퇴사 후 <a href="https://newtradecampus.kita.net/page/user_job_globaldigital_courseguide_outline">디지털 인재 양성 1기</a>라는 프로그램으로 개발에 입문 했으나 처참한 실패.
-- (자바와 스프링 배우려고 갔는데, 3개월째 되던 날 교육과정이 바뀌면서 R과 머신러닝 학습...나의 길이 아니라는 것을 깨달음)
-- <a href="https://user-images.githubusercontent.com/90877864/147853940-b05adb6e-f500-4f3d-827c-33314710c2f3.png">웹 강의</a> 독학 HTML부터 Node.js, React까지 클론코딩.
-- 마지막이라 생각하고 <a href="https://spartacodingclub.kr">스파르타의 부트캠프</a>에 참가하며 만족스럽게 코딩 공부 중.
+- 2021년 퇴사 후 <a href="https://newtradecampus.kita.net/page/user_job_globaldigital_courseguide_outline">디지털 인재 양성 1기</a> 통해서 R, 머신러닝 찍먹.
+- <a href="https://user-images.githubusercontent.com/90877864/147853940-b05adb6e-f500-4f3d-827c-33314710c2f3.png">인터넷 강의</a> 독학으로 웹 개발 입문.
+- <a href="https://spartacodingclub.kr">스파르타의 부트캠프</a>에서 스프링부트를 활용한 팀 프로젝트 참여.
+- (2022년~) 주니어 개발자로 근무 중 
 
 ## Coding Profiles
-
 
 
 <hr/>
@@ -30,14 +30,6 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
@@ -46,17 +38,6 @@
         </span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
@@ -64,6 +45,13 @@
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Python</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
     </tr>
   </tbody>
