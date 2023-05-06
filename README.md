@@ -34,24 +34,30 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Kotlin</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span><strong>Spring Boot</strong>
         </span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>Nest JS</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
     </tr>
   </tbody>
