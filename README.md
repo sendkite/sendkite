@@ -17,7 +17,9 @@
 - 2021년 퇴사 후 <a href="https://newtradecampus.kita.net/page/user_job_globaldigital_courseguide_outline">디지털 인재 양성 1기</a> 통해서 R, 머신러닝 찍먹.
 - <a href="https://user-images.githubusercontent.com/90877864/147853940-b05adb6e-f500-4f3d-827c-33314710c2f3.png">인터넷 강의</a> 독학으로 웹 개발 입문.
 - <a href="https://spartacodingclub.kr">스파르타의 부트캠프</a>에서 스프링부트를 활용한 팀 프로젝트 참여.
-- (2022년~) 주니어 개발자로 근무 중 
+- (2022년.3월 ~ 2023.4월) 비디오 솔루션 회사 주니어 개발자로 근무
+- (2023년.4월 ~ 2023년.6월) <a href="https://nurseedu-frontend.vercel.app/">널스에듀 외주 작업</a>
+- 구직중
 
 ## Coding Profiles
 
